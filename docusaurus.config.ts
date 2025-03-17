@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://watanka.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/blog',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -98,20 +98,20 @@ const config: Config = {
     metadata: [
       {
         name: 'google-adsense-account',
-        content: 'ca-pub-3555505602575174'
+        content: 'ca-pub-xxxxxxxxxxxxxxxx'
       },
       {
         name: 'keywords',
-        content: 'tech blog, 기술 블로그, AI 개발자, ML, 딥러닝, 백엔드',
+        content: 'xxx',
       },
       {
         name: 'description',
-        content: 'AI 백엔드 개발자의 좌충우돌 개발기록',
+        content: 'xxx',
       },
     ],
     image: 'img/profile.jpg',
     navbar: {
-      title: 'Silver Archive',
+      title: 'AutoBlog',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
