@@ -15,7 +15,9 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'autoblog1.github.io', // 실제 GitHub 레포지토리 이름으로 수정
+  organizationName: 'watanka', // GitHub 사용자명 또는 조직명
+  trailingSlash: false,
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
