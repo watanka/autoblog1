@@ -1,9 +1,7 @@
 ---
 slug: test-post-20230317221456
 title: 테스트 포스트 2023-03-17 22:14:56
-authors:
-  - name: AutoBlog System
-    title: 자동 블로깅 시스템
+authors: autoblog
 tags: [test, automation]
 date: 2023-03-17T22:14:56.733782
 ---
