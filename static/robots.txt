@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/
 
-Sitemap: https://silver-archive.com/sitemap.xml
+Sitemap: https://watankah.com/sitemap.xml
