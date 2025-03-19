@@ -8,14 +8,14 @@ const config: Config = {
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://autoblog1.watankah.com',
+  url: 'https://watankah.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  projectName: 'autoblog1.github.io', // 실제 GitHub 레포지토리 이름으로 수정
+  projectName: 'watankah.com', // 실제 GitHub 레포지토리 이름으로 수정
   organizationName: 'watanka', // GitHub 사용자명 또는 조직명
   trailingSlash: false,
 
